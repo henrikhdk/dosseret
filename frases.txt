@@ -1,3 +1,3 @@
-Bom dia (Dia)
-Bonjour (Jour)
-Good Morning (GM)
+PT: Bom dia (Dia)
+FR: Bonjour (Jour)
+EN: Good Morning (GM)
