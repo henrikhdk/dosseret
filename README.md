@@ -1,0 +1,6 @@
+Em inglês: "Good morning"
+Em espanhol: "Buenos días"
+Em francês: "Bonjour"
+Em alemão: "Guten Morgen"
+Em italiano: "Buongiorno"
+Em japonês: "Ohayou gozaimasu"
