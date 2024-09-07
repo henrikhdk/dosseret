@@ -1,6 +1,1 @@
-Em inglês: "Good morning"
-Em espanhol: "Buenos días"
-Em francês: "Bonjour"
-Em alemão: "Guten Morgen"
-Em italiano: "Buongiorno"
-Em japonês: "Ohayou gozaimasu"
+Dar "bom dia" é mais do que uma simples saudação; é uma maneira de compartilhar energia positiva e iniciar a jornada diária com gentileza. Em cada cultura, essa saudação reflete a essência da língua e do povo. Pelo mundo, há diversas formas de expressar esse desejo, cada uma carregando um toque único de calor, tradição e significado. Do amigável "Good morning" em inglês, ao carinhoso "Buenos días" em espanhol, passando pelo alegre "Bonjour" em francês, essas expressões revelam a riqueza e a diversidade do nosso mundo, conectando pessoas de diferentes países através de um gesto universal.
