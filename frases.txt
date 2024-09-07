@@ -1,3 +1,4 @@
-PT: Bom dia (Dia)
-FR: Bonjour (Jour)
-EN: Good Morning (GM)
+PT: Bom dia (Dia) 🍁
+FR: Bonjour (Jour) ☀️
+EN: Good Morning (GM) 🌞
+ES: Buenos días! (Bueno) 😎
